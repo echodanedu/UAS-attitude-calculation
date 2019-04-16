@@ -290,5 +290,5 @@ hold on
 % plot([0:1:t_stop],psi3*180/pi,'r');
 plot(TraceData(:,1),TraceData(:,20),'r');
 %%%%%%%%%%%%%存储仿真数据%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-save trace0.dat TraceData -ASCII;    %存储航迹数据
+
 
